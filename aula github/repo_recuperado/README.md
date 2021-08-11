@@ -4,4 +4,4 @@
 
 ### Aluna: Élen Fernanda dos Santos Petri
 
-* pasta_01: contémm somente um arquivo .keep
+* pasta_01: contém somente um arquivo .keep
