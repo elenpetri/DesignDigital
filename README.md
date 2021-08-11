@@ -6,5 +6,5 @@ Criado para entrega das atividades da disciplina Design Digital, professor Fabr�
 * Turma: 1º Semestre - DSM
 
 ## Arquivos:
-  * [Prática Git/Github](#)
+  * [Prática Git/GitHub](https://github.com/elenpetri/DesignDigital/blob/main/aula%20github/repo_recuperado/README.md)
   * [Prática HTML](#)
